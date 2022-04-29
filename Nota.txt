@@ -1,0 +1,2 @@
+Nota: Se está trabajando para la parte de pedidos, por lo tanto administrador,empleado y cliente/usuario, no puede hacer uso de esta función ni de derivados.
+Para añadir la imagen de un platillo para el menú abrir carpeta Admin --> img
